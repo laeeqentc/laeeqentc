@@ -10,10 +10,9 @@
 
 - 🔭 I’m currently working on ... Cisco's line of products namely CMS 1000, CMS 2000, UCS etc. 
 - 🌱 I’m currently learning ... K8s, DevOps, DecSecOps and the like
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ... laeeq@ieee.org
-- ⚡ Fun fact: ...
+- 💬 Ask me about ... Embedded Systems, H/w, s/w, n/w Linux and so on. 
+- 📫 How to reach me: ... Email me :- laeeq@ieee.org or Linkedin :- https://www.linkedin.com/in/mohdlaeeq/
+
 
 <!--
 **laeeqentc/laeeqentc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
