@@ -10,8 +10,8 @@
 
 - 🔭 I’m currently working on ... Cisco's line of products namely CMS 1000, CMS 2000, UCS etc. 
 - 🌱 I’m currently learning ... K8s, DevOps, DecSecOps and the like
-- 💬 Ask me about ... Embedded Systems, H/w, s/w, n/w Linux and so on. 
-- 📫 How to reach me: ... Email me :- laeeq@ieee.org or Linkedin :- https://www.linkedin.com/in/mohdlaeeq/
+- 💬 Ask me about ... Embedded Systems, hardware, software, Linux, Embedded Linux and so on. 
+- 📫 How to reach me: ... Email me :- laeeqentc@gmail.com or Linkedin :- https://www.linkedin.com/in/mohdlaeeq/
 
 
 <!--
